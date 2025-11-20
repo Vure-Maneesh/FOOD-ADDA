@@ -52,3 +52,19 @@ Admins can manage food categories, items, and orders easily from the backend.
 
 ## 📂 Project Structure
 
+FOOD-ADDA/
+├── src/main/java/com/foodAdda
+│ ├── controller/
+│ ├── service/
+│ ├── serviceImpl/
+│ ├── repository/
+│ ├── entity/
+│ ├── dto/
+│ ├── exceptions/
+│ └── FoodAddaApplication.java
+├── src/main/resources/
+│ ├── application.properties
+│ └── static/templates (if using frontend)
+├── pom.xml
+└── README.md
+
